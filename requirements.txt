@@ -1,0 +1,3 @@
+https://robotframework.org/robotframework/latest/libraries/String.html
+pip install appiumlibrary
+pip install robotframework-faker
